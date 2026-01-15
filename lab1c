@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+# Author: Yaqoob Syed
+# Date: 2026-01-15
+# Purpose: Compute the area of a circle from user input
+# Usage: ./lab1c.py
+
+# 1. Import math module
+import math
+
+# 2. Take radius input from the user
+r = int(input("Enter the radius of the circle: "))
+
+# 3. Compute area using pi from math module
+area = math.pi * r ** 2
+
+# 4. Print the area
+print("The area of the circle is:", area)

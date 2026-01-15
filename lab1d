@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+# Author: Yaqoob Syed
+# Date: 2026-01-15
+# Purpose: Demonstrate string methods, indexing, and formatting
+# Usage: ./lab1d.py
+
+# 1. Create a variable called 'name' and convert it to uppercase
+name = "Yaqoob Syed".upper()
+
+# 2. Create a variable called 'age'
+age = 20
+
+# 3. Print a formatted greeting using .format()
+print("How are you {}? Happy {}th birthday!".format(name, age))
+
+# 4. Create a variable 'words'
+words = "The quick brown fox jumps over the lazy dog"
+
+# 5. Use indexing to return specific characters
+print("First character:", words[0])        # T
+print("17th character:", words[16])        # f
+
+# 6. Use negative indexing to get words
+print("Word 'jumps':", words[20:25])       # jumps
+print("Word 'quick':", words[4:9])         # quick
+
+# 7. Return all characters between index 2-15
+print("Characters from index 2 to 15:", words[2:16])
+
+# 8. Print "uick brown fox ju" from words
+print("Substring 'uick brown fox ju':", words[4:21])
