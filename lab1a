@@ -12,7 +12,7 @@
 # Set the variable to equal to "Welcome to PRG101".
 # Print the variable message using print() statement.
 
-message = "Welcome to PRG101".
+message = "Welcome to PRG101"
 print(message)
 
 
@@ -29,4 +29,5 @@ print(type(x))
 # Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
 # What did you observe?
 x = "hello"
-print(type(x))A
+print(type(x))
+
