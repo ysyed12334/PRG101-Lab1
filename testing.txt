@@ -24,6 +24,13 @@ The area of the circle is: 78.53981633974483
 
 
 # 1d output
+How are you YAQOOB SYED? Happy 20th birthday!
+First character: T
+17th character: f
+Word 'jumps': jumps
+Word 'quick': quick
+Characters from index 2 to 15: e quick brown f
+Substring 'uick brown fox ju': uick brown fox ju
 
 
 
