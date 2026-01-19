@@ -35,3 +35,8 @@ Substring 'uick brown fox ju': uick brown fox ju
 
 
 # 1e output
+Enter stock value: 10
+    25.00
+       25.00
+
+
