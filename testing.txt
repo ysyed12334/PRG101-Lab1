@@ -1,4 +1,8 @@
 # 1a output
+Welcome to PRG101
+<class 'str'>
+<class 'int'>
+<class 'str'>
 
 
 # 1b output
