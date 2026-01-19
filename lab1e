@@ -18,3 +18,4 @@ print("    %.2f" % product)  # 4 spaces, 2 decimals
 
 # 5. Print the product with 7 spaces before the number
 print("       %.2f" % product)  # 7 spaces, 2 decimals
+
